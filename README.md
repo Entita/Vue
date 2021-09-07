@@ -1,24 +1,11 @@
-# vue-weather
+# 2 Versions
 
-## Project setup
+## React version
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+https://vue-weather-app-first.netlify.app
 ```
 
-### Compiles and minifies for production
+### Clean version (cdn library) - with upgraded search bar
 ```
-npm run build
+http://pouze.kvalitne.cz/vue-weather/
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
